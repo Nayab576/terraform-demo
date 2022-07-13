@@ -1,5 +1,5 @@
 variable "region_name" {
- default = "us-east-1"
+ default = "us-east-2"
 }
 variable "instance_type" {
  description = "instance type for ec2 instance"
